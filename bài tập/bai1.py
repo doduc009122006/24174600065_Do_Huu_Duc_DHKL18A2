@@ -11,7 +11,7 @@ else:
 pi = 3.14
 dtxq = 2*pi*r*h
 dttp = 2 *pi*r*(r + h)
-Vt = pi*r**2*h
+Vt = pi*r**2*himport math
 #in ra kết quả
 print(f"diện tích xung quanh: {dtxq:.2f}")
 print(f"diện tích toàn phần: {dttp:.2f}")
